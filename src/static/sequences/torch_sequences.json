@@ -1,0 +1,22 @@
+[
+    {
+        "Sequence": 0,
+        "Type": "Title",
+        "Message": "Enrollment Consent"
+    },
+    {
+        "Sequence": 1,
+        "Type": "CheckBox",
+        "Message": "The Emergency Broadband Benefit(EBB) Program is a temporary emergency federal government benefit program that reduces broadband Internet service access for eligible consumers. EBB is separate from Lifeline service customers may continue their existing Lifeline service without enrolling in the EBB Program, may apply EBB and Lifeline benefits to the same service, or may choose to take EBB Program benefits from a service provider other than their existing Lifeline provider.\n\nYou are only allowed to get one EBB Program benefit per household(not per person). You cannot transfer your EBB program benefit to another person. When EBB ends, your household will be subject to un-discounted rates and general terms and conditions if you continue to receive service. You may obtain EBB-supported broadband service from any participating provider and transfer your Emergency Broadband Benefit to another provider at any time.\n\nBy initialing below, you hereby consent to applying your household's Emergency Broadband Benefit to Torch Wireless's service."
+    },
+    {
+        "Sequence": 2,
+        "Type": "Title",
+        "Message": "Transfer Consent"
+    },
+    {
+        "Sequence": 3,
+        "Type": "CheckBox",
+        "Message": "The EBB is limited to one monthly service discount and one device discount per household. Your household cannot get the EBB Program benefit from more than one service provider at a time, and can only receive one connected device(desktop, laptop, or tablet) through the EBB Program, even if you switch EBB providers. You may transfer your Emergency Broadband Benefit to another provider at any time.\n\nBy initialing below, you acknowledge that you consent to transfer your household's existing Emergency Broadband Benefit to Torch Wireless and will no longer receive EBB service with your previous provider."
+    }
+]

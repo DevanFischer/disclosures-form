@@ -1,0 +1,67 @@
+[
+    {
+        "Sequence": 0,
+        "Type": "Info",
+        "Message": "To OPT-IN to the ACP, please read the following and OPT-IN below."
+    },
+    {
+        "Sequence": 1,
+        "Type": "Info",
+        "Message": "The ACP monthly service and device discounts are not transferrable to other households or individuals. An eligible household is limited to one monthly service discount and one device discount. Eligibility for the ACP will be determined by the National Verifier and National Lifeline Accountability Database, administered by the Universal Service Administrative Company (USAC), or an alternative verification process approved by the FCC. ACP benefits may be obtained from any participating provider of your choosing and your monthly service benefit may be transferred to another provider at any time. ACP discounts can be applied to any available Red Pocket Mobile service plans. Upload/download speeds will be determined by your particular service plan, and other factors, including your device, network availability from our underlying carrier, your proximity to cellular towers, and environmental factors may affect speeds, as described at www.redpocket.com. Our standard Terms and Conditions, including the Acceptable Use Policy, apply and are available at www.redpocket.com. Lifeline program participants are eligible to participate in the ACP. Your ACP benefit is separate from your Lifeline benefit. Your household can receive only one Lifeline and one ACP benefit. Your ACP benefit can be separate or combined with your Lifeline benefit, depending on the service plan you choose. Lifeline participants may maintain their existing Lifeline services without enrolling in the ACP, and may choose to take ACP benefits from another service provider. If the FCC announces the end the ACP, we discontinue our ACP service offers, or we determine your household is no longer eligible, we will notify you and you will revert to receiving the standard FREE Lifeline plan where available and if you are eligible. You may keep your service plan by paying the applicable undiscounted rate plus applicable fees and taxes."
+    },
+    {
+        "Sequence": 2,
+        "Type": "CheckBox",
+        "Message": "I authorize Red Pocket Mobile and its contracted partners, for the purpose of applying for, determining eligibility, enrolling in and seeking reimbursement of ACP service and device benefits, to collect, use, share, and retain my personal information, including, but not limited to, information required for the purpose of establishing eligibility for and enrolling in the ACP program, and including, but not limited to, full name, full residential address, date of birth, last four digits of social security number, telephone number, eligibility criteria and status, the date on which the ACP service discount was initiated and if applicable, terminated, ACP connected device distribution date/type/make and model/status, usage status and other compliance requirements, the amount of support being sought for the service and/or device, and information necessary to establish identity and verifiable address. This information may be shared with USAC to ensure proper administration of the ACP service and/or connected device benefits."
+    },
+    {
+        "Sequence": 3,
+        "Type": "Info",
+        "Message": "Failure to provide consent will result in me being denied the ACP service and/or the connected device benefits."
+    },
+    {
+        "Sequence": 4,
+        "Type": "CheckBox",
+        "Message": "I agree that any state, local, Tribal government, school or school district, may share information about my receipt of benefits that would establish eligibility for the ACP, and that such information will be used only to determine ACP eligibility."
+    },
+    {
+        "Sequence": 5,
+        "Type": "CheckBox",
+        "Message": "I give express consent for Red Pocket Mobile and its contracted partners to contact me to validate my eligibility for or desire to participate in Red Pocket Mobile’s ACP offers and other products and services via email, telephone, or text messaging. Text messaging and data rates may apply. Consent for calls and texts is optional and can be revoked at any time. Opting out will not affect the Company's ability to contact me with messages regarding the Lifeline program, ACP and/or service functionality via the methods listed herein. For more information, see our Terms and Conditions and Privacy Policy at www.redpocket.com."
+    },
+    {
+        "Sequence": 6,
+        "Type": "CheckBox",
+        "Message": "I confirm that, if I am found to already be receiving an ACP benefit from another provider, I consent for my ACP benefit to be transferred from that provider to Red Pocket Mobile, and I understand that I will lose the benefit from my former provider."
+    },
+    {
+        "Sequence": 7,
+        "Type": "CheckBox",
+        "Message": "I understand that in order to maintain my benefit that I must use the service provided by my service provider and that I may need to re-certify my eligibility, as determined by the FCC."
+    },
+    {
+        "Sequence": 8,
+        "Type": "CheckBox",
+        "Message": "I certify that if I receive a connected device discount from Red Pocket Mobile as part of the ACP, I will pay a minimum of $10.01 and a maximum of $49.99 for the connected device and that, to the best of my knowledge, no one in my household has received a connected device discount from any service provider through the ACP. I acknowledge that if I received a connected device discount as part of the Emergency Broadband Benefit program, I am not eligible for a connected device discount with us at this time. Devices we make available for ACP discounts are available at www.redpocket.com."
+    },
+    {
+        "Sequence": 9,
+        "Type": "CheckBox",
+        "Message": "I understand I have the right to enroll in the service using non-electronic methods. I further understand that I have the right to withdraw this consent at any time prior to activation of my service. The Company has advised me that I may request a paper copy of my contract and associated fees by calling 1-800-XXX-XXXX"
+    },
+    {
+        "Sequence": 10,
+        "Type": "CheckBox",
+        "Message": "I confirm that I have read and understand the disclosures, read and agree with the authorizations, and want to OPT-IN to ACP discounted broadband service with Red Pocket Mobile."
+    },
+    {
+        "Sequence": 11,
+        "Type": "CheckBox",
+        "Message": "I understand that under the ACP program, I will receive the monthly ACP service discount of up to $30. If the FCC announces the end the ACP, or if it is determined my household is no longer eligible, IM TELECOM LLC dba Red Pocket Mobile will notify me that they will discontinue ACP service offers.  I may keep my service plan by paying the applicable un-discounted rate plus applicable fees and taxes."
+    },
+    {
+        "Sequence": 12,
+        "Type": "CheckBox",
+        "Message": "By checking this box, I hereby certify, under penalty of perjury, that the information included in this certification form is true and correct to the best of my knowledge."
+    }
+]

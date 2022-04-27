@@ -1,0 +1,157 @@
+[
+    {
+        "Sequence": 0,
+        "Type": "Title",
+        "Message": "Service activation and usage requirement:"
+    },
+    {
+        "Sequence": 1,
+        "Type": "Info",
+        "Message": "Infiniti Mobile service is a prepaid service offered by the company to subscribers eligible for ACP discount benefits in  states where it is authorized to do so. To maintain your service and benefits, you must personally activate the service by  placing a call, initiating data usage, or by responding to instructions from Infiniti Mobile to activate the service. To keep  your account active, you must use the service at least once during any 30-day period by completing an outbound call, sending a text message, using cellular data, purchasing additional service from Infiniti Mobile, answering an in-bound  call from someone other than Infiniti Mobile, or by responding to a direct contact from Infiniti Mobile confirming that  you want to continue receiving service from Infiniti Mobile. If your service goes unused for 30 days, you will no longer be  eligible for Lifeline and ACP benefits and your service may be suspended (allowing only 911 calls and calls to the Infiniti Mobile's customer care center) subject to a 15-day cure period during which you must use the service (as described above) in  order to fully re-activate your service, keep your telephone number and remain enrolled in the ACP."
+    },
+    {
+        "Sequence": 2,
+        "Type": "CheckBox",
+        "Message": "I hereby certify that I have read and understood the disclosures listed above regarding activation and usage requirements."
+    },
+    {
+        "Sequence": 3,
+        "Type": "Title",
+        "Message": "ACP Disclosures, Authorizations and Certifications:"
+    },
+    {
+        "Sequence": 4,
+        "Type": "Info",
+        "Message": "The Affordable Connectivity Program (ACP) is a government benefit program operated by the Federal Communications Commission (FCC) that provides discounts on monthly broadband Internet access service and certain connected devices. For more information about the ACP and program eligibility requirements, call us at 1-888-801-0012 or visit  www.InfinitiMobile.com."
+    },
+    {
+        "Sequence": 5,
+        "Type": "Info",
+        "Message": "Willfully making false statements to obtain the benefit can result in fines, imprisonment, de-enrollment or being barred  from the program."
+    },
+    {
+        "Sequence": 6,
+        "Type": "Info",
+        "Message": "ACP benefits may be obtained from any participating provider of your choosing and your monthly service benefit may be  transferred to another provider no more than once in a service month."
+    },
+    {
+        "Sequence": 7,
+        "Type": "Info",
+        "Message": "ACP discounts can be applied to any available Infiniti Mobile service plans at the same terms available to households  that are not eligible for ACP supported services. Upload/download speeds will be determined by your particular service  plan, and other factors, including your device, network availability from our underlying carrier, your proximity to cellular  towers, and environmental factors may affect speeds, as described in our Broadband Transparency Disclosure at  www.InfinitiMobile.com. A complete listing of our plans, including plans that are fully covered (no co-pay after  application of the ACP discount), is available at www.InfinitiMobile.com."
+    },
+    {
+        "Sequence": 8,
+        "Type": "Info",
+        "Message": "Infiniti Mobile’s complete Terms and Conditions, including the Acceptable Use Policy, Privacy Policy and ACP Terms and  Conditions, apply and are available at www.InfinitiMobile.com."
+    },
+    {
+        "Sequence": 9,
+        "Type": "Info",
+        "Message": "ACP monthly service and one-time device discounts are not transferrable to other households or individuals. An eligible household is limited to one monthly service discount and a single one-time device discount."
+    },
+    {
+        "Sequence": 10,
+        "Type": "Info",
+        "Message": "An eligible household does not have to purchase an ACP discounted connected device in order to enroll in the ACP and  receive monthly service discounts. Devices available for ACP discounts are listed at www.InfinitiMobile.com."
+    },
+    {
+        "Sequence": 11,
+        "Type": "Info",
+        "Message": "Eligibility for the ACP is determined by the National Verifier and National Lifeline Accountability Database, administered  by the Universal Service Administrative Company (USAC), or an alternative verification process approved by the FCC. "
+    },
+    {
+        "Sequence": 12,
+        "Type": "Info",
+        "Message": "Your ACP discount benefit is separate from your Lifeline discount benefit. Your household can receive only one ACP  benefit and one Lifeline benefit. Your ACP benefit can be separate or combined with your Lifeline benefit, depending on  your choice and the service plan you choose. Lifeline participants may maintain their existing Lifeline services without  enrolling in the ACP and may choose to take ACP benefits from another service provider."
+    },
+    {
+        "Sequence": 13,
+        "Type": "Info",
+        "Message": "If the FCC announces the end of the ACP, we discontinue our ACP service offers, you transfer your ACP benefits to  another provider, or we determine your household is no longer eligible, you will be notified. You may keep your service  plan by paying the applicable undiscounted rate plus applicable fees and taxes."
+    },
+    {
+        "Sequence": 14,
+        "Type": "Info",
+        "Message": "If you select a plan that is not fully covered by applicable discounts and requires monthly post-payments (Infiniti Mobile  does not offer any such plans at this time), Infiniti Mobile may disconnect your ACP-supported service after 90  consecutive days of non-payment."
+    },
+    {
+        "Sequence": 15,
+        "Type": "Info",
+        "Message": "A household may file a complaint against an ACP service provider via the FCC’s Consumer Complaint Center."
+    },
+    {
+        "Sequence": 16,
+        "Type": "CheckBox",
+        "Message": "I hereby certify that I have read and understood the disclosures listed above regarding the ACP benefits and  consent to enroll in the ACP with Infiniti Mobile."
+    },
+    {
+        "Sequence": 17,
+        "Type": "Sub",
+        "Message": "(1) Completion of this form does not eliminate the need for the applicant to complete the National Verifier’s Standard ACP Application  Form which is required."
+    },
+    {
+        "Sequence": 18,
+        "Type": "CheckBox",
+        "Message": "If I am seeking to qualify for ACP benefits as an eligible resident of Tribal lands, I certify that I live on Tribal lands, as defined in FCC rule 47 C.F.R. 54.400(e)."
+    },
+    {
+        "Sequence": 19,
+        "Type": "CheckBox",
+        "Message": "I authorize and give express consent for Infiniti Mobile and its contracted partners to contact me to validate my eligibility for, desire to participate in, or subscription to Infiniti Mobile’s ACP offers and other products and  services via email, telephone, or text messaging, including calls using an automated telephone dialing system,  manually, or with pre-recorded/artificial voice messages. Text messaging and data rates may apply. Consent for  emails, calls and texts is optional and can be revoked at any time by dialing 611 from my Infiniti Mobile provided wireless number or by calling 1-888-801-0012 and revoking consent. However, I understand that opting out will  not affect Infiniti Mobile's ability to contact me with notices and messages regarding ACP service and connected  device benefits and/or any other service or product via the methods listed herein. For more information see our  Terms and Conditions and Privacy Policy at www.InfinitiMobile.com."
+    },
+    {
+        "Sequence": 20,
+        "Type": "CheckBox",
+        "Message": "I authorize Infiniti Mobile and its contracted partners, for the purpose of applying for, determining eligibility,  enrolling in and seeking reimbursement of ACP service and connected device benefits, to collect, use, share, and  retain my personal information, including but not limited to information required for the purpose of establishing  eligibility for and enrolling in the ACP program, and including, but not limited to, full name, full residential address, date of birth, last four digits of social security number, telephone number, eligibility criteria and status,  the date on which the ACP service discount was initiated and if applicable, terminated, usage status and other  compliance requirements, the amount of support being sought for the service, and information necessary to establish identity and verifiable address. This information may be shared with USAC to ensure proper  administration of the ACP program. Failure to provide consent will result in me being denied ACP service and  connected device benefits."
+    },
+    {
+        "Sequence": 21,
+        "Type": "CheckBox",
+        "Message": "I agree that any state, local, Tribal government, school, or school district, may share information about my receipt of benefits that would establish eligibility for the ACP, and that such information will be used only to determine ACP eligibility."
+    },
+    {
+        "Sequence": 22,
+        "Type": "Title",
+        "Message": "ACP Benefit Transfer Consent:"
+    },
+    {
+        "Sequence": 23,
+        "Type": "Info",
+        "Message": "A subscriber already enrolled in the ACP with another provider must consent to the transfer of their ACP benefit to  Infiniti Mobile."
+    },
+    {
+        "Sequence": 24,
+        "Type": "Info",
+        "Message": "The effect of an ACP benefit transfer is that your ACP benefit will be applied to Infiniti Mobile’s ACP service and will no  longer be applied to service retained from your former ACP service provider. You may be subject to your former ACP provider’s undiscounted rates as a result of the transfer if you elect to maintain service from that provider."
+    },
+    {
+        "Sequence": 25,
+        "Type": "Info",
+        "Message": "You are limited to one ACP benefit transfer transaction per service month, with limited exceptions for situations where a subscriber seeks to reverse an unauthorized benefit transfer or is unable to receive service from a specific provider."
+    },
+    {
+        "Sequence": 26,
+        "Type": "CheckBox",
+        "Message": "After receiving and reviewing the foregoing required disclosures, I consent to and authorize Infiniti Mobile to  transfer my current ACP benefit to Infiniti Mobile, if I am found to already be receiving an ACP discount  benefit from another ACP provider."
+    },
+    {
+        "Sequence": 27,
+        "Type": "Title",
+        "Message": "Certification of Truth and Correctness Under Penalty of Perjury:"
+    },
+    {
+        "Sequence": 28,
+        "Type": "CheckBox",
+        "Message": "By checking this box, I hereby certify, under penalty of perjury, that the information included in the foregoing  applications and certifications is true and correct to the best of my knowledge."
+    },
+    {
+        "Sequence": 29,
+        "Type": "Title",
+        "Message": "E-sign Certification:"
+    },
+    {
+        "Sequence": 30,
+        "Type": "CheckBox",
+        "Message": "I consent to use of this electronic form. I understand I have the right to enroll in the service using non-electronic  methods. I further understand that I have the right to withdraw this consent at any time prior to the activation  of my service. Infiniti Mobile has advised me and I understand that I may request a paper copy of my contractual  terms and associated fees or withdraw this consent by calling 1-888-801-0012."
+    }
+]

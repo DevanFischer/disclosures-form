@@ -1,0 +1,57 @@
+[
+    {
+        "Sequence": 0,
+        "Type": "Info",
+        "Message": "Lifeline program participants are eligible to participate in the new federal government funded Affordable Connectivity Program."
+    },
+    {
+        "Sequence": 1,
+        "Type": "Info",
+        "Message": "The Go Knows FREE ACP plan includes unlimited voice, text and data with hotspot capability."
+    },
+    {
+        "Sequence": 2,
+        "Type": "Info",
+        "Message": "The Affordable Connectivity Program (ACP) is a temporary limited-time government program operated by the Federal Communications Commission (FCC) that provides discounts on monthly broadband Internet access service and certain connected devices. The ACP monthly service and device discounts are non-transferrable. An eligible household is limited to one monthly service discount and one device discount. ACP Program benefits may be obtained from any participating provider of your choosing and your monthly service benefit may be transferred to another provider at any time."
+    },
+    {
+        "Sequence": 3,
+        "Type": "Info",
+        "Message": "When the FCC announces the end the program or we end our promotional FREE ACP service offer, we will notify you and you will revert to receiving only the standard FREE Lifeline plan where available and if you are eligible. Where Lifeline plans are not available, you may keep your service by paying the applicable undiscounted rate of $45 [including/excluding] fees and taxes [or plus fees and taxes]."
+    },
+    {
+        "Sequence": 4,
+        "Type": "Info",
+        "Message": "The ACP shares the same qualifying eligibility programs as Lifeline – participation in SNAP, Medicaid, SSI, Federal Public Housing Assistance, Veterans and Survivors Pension Benefit Fund, and income at or below 135% of the federal poverty level. For a limited time determined by the FCC, unemployment may qualify you for Lifeline and the ACP. Additional eligibility programs are unique to ACP and do not qualify for Lifeline. These include Pell Grants, Free and Reduced-Price School Lunch and Breakfast, as well as reduced wages in certain instances. Program eligibility will be determined for the FCC by Universal Service Administrative Company's National Verifier and National Lifeline Accountability Database, or an alternative verification process approved by the FCC."
+    },
+    {
+        "Sequence": 5,
+        "Type": "Info",
+        "Message": "Your ACP plan is separate from your Lifeline plan. For your convenience, we will load this plan monthly on top of your existing Lifeline plan using your current phone number. If you would like to have your ACP plan on a separate device with a different phone or for additional information about the EEB Program please dial 611 from your Go Knows phone or call us 1-877-223-1978."
+    },
+    {
+        "Sequence": 6,
+        "Type": "CheckBox",
+        "Message": "I agree that if I move I will give my service provider my new address within 30 days."
+    },
+    {
+        "Sequence": 7,
+        "Type": "CheckBox",
+        "Message": "I agree that my service provider can give the ACP Program Administrator all of the information I am giving. I understand that this information is meant to help run the ACP Program and that if I do not let them give it to the Administrator, I will not be able to get ACP."
+    },
+    {
+        "Sequence": 8,
+        "Type": "CheckBox",
+        "Message": "All the answers and agreements that I provided on this form are true and correct to the best of my knowledge."
+    },
+    {
+        "Sequence": 9,
+        "Type": "CheckBox",
+        "Message": "My service provider may have to check whether I still qualify at any time. If I need to recertify (renew) my ACP benefit, I understand that I have to respond by the deadline provided or I will be removed from the Lifeline Program and my ACP benefit will stop."
+    },
+    {
+        "Sequence": 10,
+        "Type": "CheckBox",
+        "Message": "I agree to all of the above provided and disclosed terms."
+    }
+]
